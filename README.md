@@ -47,4 +47,4 @@ If you will receive CORS error while using Angular on localhost, you can disable
 2. Open cmd in that folder.
 3. Type `chrome.exe --disable-web-security --disable-gpu --user-data-dir="C:/ChromeDevSession"` to start chrome in Disabled security mode.
 
-# Thank you so much
+
